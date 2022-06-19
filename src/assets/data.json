@@ -1,0 +1,15 @@
+{
+    "name": "Kokila",
+    "Gender": "Female",
+    "Age": 27,
+    "Friends_Details": [
+        {
+            "name": "Suresh",
+            "phone": 9515179896
+        },
+        {
+            "name": "Subash",
+            "phone": 9632014587
+        }
+    ]
+}
